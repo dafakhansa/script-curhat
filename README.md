@@ -1,0 +1,2 @@
+# script-curhat
+Untuk curhat
